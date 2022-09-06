@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-yarn":{"specfileHash":"85d6d8f2ffd965e5e81e0f314e0fbe5e","lockfileHash":"feb39d55e186d657082ae250d02ca099","guessedImports":["cheerio","cookie-parser","nunjucks","express","require-dir","mcproto","undici"],"guessedImportsHash":"27f2ab0dc4a3f9572c12866377105a36"}}}
